@@ -1,4 +1,4 @@
-### 3d_model
+
 # Задания по 3д моделированию
 ## 1. Алгоритм Брезенхема
 [Брезенхем](https://github.com/polyndrapp/3d_model/tree/main/Bresenham)
