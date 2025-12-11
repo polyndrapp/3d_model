@@ -11,3 +11,4 @@
 ## 5. Работа с 3D-мешами, триангуляция и визуализация в Open3D
 [Open3D](https://github.com/polyndrapp/3d_model/tree/main/Open3D)
 ## 6. Алгоритм Робертса
+[Roberts](https://github.com/polyndrapp/3d_model/tree/main/Roberts)
