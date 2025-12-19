@@ -12,4 +12,5 @@
 [Open3D](https://github.com/polyndrapp/3d_model/tree/main/Open3D)
 ## 6. Алгоритм Робертса
 [Roberts](https://github.com/polyndrapp/3d_model/tree/main/Roberts)
-## 7. РК2
+## 7. РК2 
+[РК2](https://github.com/polyndrapp/3d_model/tree/main/RK2)
