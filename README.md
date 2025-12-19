@@ -1,5 +1,5 @@
 
-# Задания по 3д моделированию
+# Задания по 3д моделированию + РК2
 ## 1. Алгоритм Брезенхема
 [Брезенхем](https://github.com/polyndrapp/3d_model/tree/main/Bresenham)
 ## 2. Отсечение отрезков Цируса-Бека
@@ -12,3 +12,4 @@
 [Open3D](https://github.com/polyndrapp/3d_model/tree/main/Open3D)
 ## 6. Алгоритм Робертса
 [Roberts](https://github.com/polyndrapp/3d_model/tree/main/Roberts)
+## 7. РК2
